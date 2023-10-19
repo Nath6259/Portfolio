@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.47c0702a.css",
+    "main.js": "/Portfolio/static/js/main.d145d211.js",
+    "static/js/787.fb771931.chunk.js": "/Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/tea-project.png": "/Portfolio/static/media/tea-project.388696969e851d627acf.png",
+    "static/media/Cv-project.png": "/Portfolio/static/media/Cv-project.ff937e336bfb90146ce3.png",
+    "static/media/Daft-project.png": "/Portfolio/static/media/Daft-project.3e4fb5b3247e35f452d7.png",
+    "static/media/ai-text-to-image.png": "/Portfolio/static/media/ai-text-to-image.2959fa0b0765d92a009c.png",
+    "static/media/color-sharp.png": "/Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/Fiverr-clone.png": "/Portfolio/static/media/Fiverr-clone.6c3774bb0ccee6c7c723.png",
+    "static/media/Simple_synthwave_dark_abstract_mystical_logo_pink_purp.png": "/Portfolio/static/media/Simple_synthwave_dark_abstract_mystical_logo_pink_purp.214ccc482ba7748a0d10.png",
+    "static/media/Simple_synthwave_dark_abstract_mystical_logo_pink_purp-removebg-preview.png": "/Portfolio/static/media/Simple_synthwave_dark_abstract_mystical_logo_pink_purp-removebg-preview.2b6c20bf0309a41a038b.png",
+    "static/media/banner-bg.png": "/Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/Chabot-project.png": "/Portfolio/static/media/Chabot-project.575ee38765bf9da3fce1.png",
+    "static/media/contact-img.svg": "/Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/Portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/Portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/meter4.svg": "/Portfolio/static/media/meter4.8b65dcb0c19cf7fb7be00166d20ade0b.svg",
+    "static/media/meter5.svg": "/Portfolio/static/media/meter5.4bfd522a16e468d43cd8bd1bedc99c0e.svg",
+    "static/media/nav-icon4.svg": "/Portfolio/static/media/nav-icon4.a6efa428c3f3846c7fbc610c3b65bf8f.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/nav-icon1.svg": "/Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.47c0702a.css.map": "/Portfolio/static/css/main.47c0702a.css.map",
+    "main.d145d211.js.map": "/Portfolio/static/js/main.d145d211.js.map",
+    "787.fb771931.chunk.js.map": "/Portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c0702a.css",
+    "static/js/main.d145d211.js"
+  ]
+}
