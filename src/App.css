@@ -233,7 +233,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Banner Css ************/
 .banner {
   margin-top: 0;
-  padding: 260px 0 100px 0;
+  padding: 195px 0 100px 0;
   background-image: url('./assets/img/banner-bg.png');
   background-position: top center;
   background-size: cover;
@@ -250,7 +250,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: inline-block;
 }
 .banner h1 {
-  font-size: 65px;
+  font-size: 56px;
   font-weight: 700;
   letter-spacing: 0.8px;
   line-height: 1;
@@ -549,7 +549,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .contact form button:hover::before {
   width: 100%;
 }
-.mail, .tel{
+.mail, .tel, .dispo{
   text-align: center;
   margin-top: 40px;
   font-size: 20px;
@@ -635,4 +635,28 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .reseaux{
   margin-top: 50px;
+}
+
+@media screen and (min-width: 360px) and (max-width: 414px) {
+  .banner h1{
+    font-size: 29px;
+  }
+  .skill h2{
+    font-size: 40px;
+  }
+  .contact h2{
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .contact h2{
+    text-align: center;
+  }
+  .sub-mail{
+    font-size: 15px;
+  }
+  .proj-imgbx{
+    width: 105%;
+  }
 }

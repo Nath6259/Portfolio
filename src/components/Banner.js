@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { ArrowRightCircle } from "react-bootstrap-icons";
 import headerImg from "../assets/img/header-img.svg";
 import 'animate.css';
 import TrackVisibility from "react-on-screen";
@@ -8,10 +7,10 @@ import TrackVisibility from "react-on-screen";
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const toRotate = [ "Développeur Web", "Web Designer", "UI/UX Designer" ];
+    const toRotate = [ "Développeur Web", "Développeur Front-End", "Développeur Back-End", "Développeur React" ];
     const [text, setText] = useState('');
-    const [delta, setDelta] = useState(300 - Math.random() * 100);
-    const period = 2000;
+    const [delta, setDelta] = useState(150 - Math.random() * 100);
+    const period = 1500;
 
     useEffect(() => {
         let ticker = setInterval(() => {
@@ -38,7 +37,7 @@ export const Banner = () => {
         } else if(isDeleting && updatedText === '') {
             setIsDeleting(false);
             setLoopNum(loopNum + 1);
-            setDelta(500);
+            setDelta(250);
         }
     }
     
@@ -51,11 +50,10 @@ export const Banner = () => {
                         {({ isVisible }) => 
                             <div className={isVisible ? "animate__animated animate__fadeIn" : "" }>
                                 <span className="tagline">Bienvenue sur mon Portfolio</span>
-                                <h1>{`Bonjour je suis Nathan HERMAND `}<span className="wrap">{text}</span></h1>
+                                <h1>{`Bonjour je suis Nathan HERMAND `}<br /><span className="wrap">{text}</span></h1>
                                 <p>Diplômé d'un titre pro de développeur web et web mobile depuis le 03 Février 2023, je suis actuellement à la recherche d'un emploi.
                                 Travailleur, curieux, motivé, disponible et ayant le goût de l'initiative et du challenge, je mènerais à bien les missions qui me seront confiées.
                                 </p>
-                                {/* <button onClick={() => console.log('connect')}>Let's connect <ArrowRightCircle size={25} /></button> */}
                             </div>}
                         </TrackVisibility>
                     </Col>

@@ -56,7 +56,7 @@ export const Contact = () => {
                     <Col size={12} sm={6} className="px-1">
                       <div className="mail">
                         <p className="titre">Mail :</p>
-                        <p>nathan6259115@gmail.com</p>
+                        <p className="sub-mail">nathan6259115@gmail.com</p>
                       </div>
                     </Col>
                     <Col size={12} sm={6} className="px-1">
@@ -66,7 +66,7 @@ export const Contact = () => {
                       </div>
                     </Col>
                     <Col size={12} sm={6} className="px-1">
-                    <div className="tel">
+                    <div className="dispo">
                         <p className="titre">Disponibilité :</p>
                         <p>Hénin-Beaumont (62) et ses alentours.</p>
                       </div>
