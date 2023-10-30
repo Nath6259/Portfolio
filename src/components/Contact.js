@@ -68,7 +68,7 @@ export const Contact = () => {
                     <Col size={12} sm={6} className="px-1">
                     <div className="dispo">
                         <p className="titre">Disponibilité :</p>
-                        <p>Hénin-Beaumont (62) et ses alentours.</p>
+                        <p>Région Hauts-de-France</p>
                       </div>
                     </Col>
                     <Col size={12} sm={6} className="px-1">
